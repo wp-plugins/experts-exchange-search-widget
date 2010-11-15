@@ -41,7 +41,7 @@ Did you place the widget?
 
 = What version of Wordpress is required to run this? =
 
-In all honesty, I have no idea. It's been tested as working on Wordpress 3.0.1. Other versions are likely to work.
+The plugin has been tested to work with WordPress 3.0.1. Other versions are likely to work if they support widgets.
 
 = Why doesn't the widget look right? =
 
