@@ -1,0 +1,33 @@
+/* YUI Reset CSS 3.1.1 */
+#expertsExchangeSearch div, #expertsExchangeSearch dl, #expertsExchangeSearch dt, #expertsExchangeSearch dd, #expertsExchangeSearch ul, #expertsExchangeSearch ol, #expertsExchangeSearch li, #expertsExchangeSearch h1, #expertsExchangeSearch h2, #expertsExchangeSearch h3, #expertsExchangeSearch h4, #expertsExchangeSearch h5, #expertsExchangeSearch h6, #expertsExchangeSearch form, #expertsExchangeSearch fieldset, #expertsExchangeSearch legend, #expertsExchangeSearch input, #expertsExchangeSearch textarea, #expertsExchangeSearch p, #expertsExchangeSearch blockquote {
+  margin: 0;
+  padding: 0; }
+
+#expertsExchangeSearch fieldset, #expertsExchangeSearch img {
+  border: 0; }
+
+#expertsExchangeSearch li {
+  list-style: none; }
+
+#expertsExchangeSearch  h1, #expertsExchangeSearch h2, #expertsExchangeSearch h3, #expertsExchangeSearch h4, #expertsExchangeSearch h5, #expertsExchangeSearch h6 {
+  font-size: 100%;
+  font-weight: normal; }
+
+#expertsExchangeSearch input, #expertsExchangeSearch textarea, #expertsExchangeSearch select {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit; }
+
+#expertsExchangeSearch input,#expertsExchangeSearch textarea, #expertsExchangeSearch select {
+  *font-size: 100%;
+	}
+
+#expertsExchangeSearch legend {
+  color: #000000; }
+
+/* END YUI Reset CSS 3.1.1 */
+
+#expertsExchangeSearch textarea {
+  resize: none; }
+
+/*End Reset*/
