@@ -21,14 +21,14 @@ Styles.css styles this widget after the reset.
 
 1. Unzip and upload the folder `experts-exchange-search` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. If you want to change the styles, edit the CSS file included. This file should remain in the plugin directory.
-4. Place the widget through the Widgets link in the 'Appearance' menu
+3. If you want to change the styles, edit the CSS files included. These file should remain in the plugin directory.
+4. Place the widget through the Widgets link in the 'Appearance' menu.
 
 == Frequently Asked Questions ==
 
 = Why make a plugin / widget to search on Experts Exchange? =
 
-This was done via the parent company upon request from the community
+This was done upon request from the community
 
 = Why can't I add this widget =
 
@@ -49,7 +49,7 @@ Your theme's CSS might be interfering with the plugin's included CSS. Feel free 
 
 == Screenshots ==
 
-1. This screen shot is an example of what the default styles are for this widget when placed on the Twenty Ten theme.
+1. screenshot-01.jpg
 
 == Changelog ==
 
@@ -61,8 +61,5 @@ Your theme's CSS might be interfering with the plugin's included CSS. Feel free 
 = 1.0 =
 This is the first release, no upgrades have been posted so far.
 
-== Arbitrary section ==
+== Experts Exchange ==
 http://experts-exchange.com
-
-See an example of this plugin in action in the sidebar of one of our expert websites,
-http://topheringalls.com
